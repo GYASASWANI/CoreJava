@@ -28,7 +28,7 @@ public class Hello {
             }
             System.out.println("Sorted array: "+Arrays.toString(myArray));
             System.out.println("Third largest number in the array: "+myArray[size-3]);
-            System.out.println("Max and Min values in the array: "+myArray[size-1]+" and"+myArray[0]);
+           // System.out.println("Max and Min values in the array: "+myArray[size-1]+" and"+myArray[0]);
 
     }
 
